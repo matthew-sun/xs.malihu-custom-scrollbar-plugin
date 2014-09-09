@@ -1,5 +1,5 @@
 var expect = require('expect.js');
-var xs.malihuCustomScrollbarPlugin = require('../index');
+var xs.malihuCustomScrollbarPlugin = require('../jquery.mCustomScrollbar');
 
 describe('xs.malihu-custom-scrollbar-plugin', function() {
 
